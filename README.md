@@ -21,6 +21,6 @@ DAX Bionic Skill integrates DAX memory architecture with LLM inference for a des
 - REST API and CLI interface
 - AddressSanitizer / UBSan validated builds
 
-
+go into dax_skills and modifie the manifest.json to use your model directory
 
 
