@@ -1,0 +1,15 @@
+{
+  "name": "dax-agent",
+  "version": "1.0.0",
+  "description": "DAX Weaveformer agent with Muse-Glimmer LLM backbone and persistent memory",
+  "author": "thoma",
+  "commands": [
+    "dax chat",
+    "dax train",
+    "dax build",
+    "dax workspace",
+    "dax open"
+  ],
+  "model_path": "C:/Users/thoma/OneDrive/Desktop/New folder (7)/weaveformer/dax-cpp/Muse-Glimmer-30B-KQuant-17GB-Q4_K_M.gguf",
+  "checkpoint_path": "C:/Users/thoma/.lmstudio/scratchpads/dt/model_coding_start.ckpt"
+}

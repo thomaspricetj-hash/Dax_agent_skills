@@ -1,0 +1,11 @@
+task,result,score
+Explain for loop in Python,for loop iterates over sequence,0.95
+Write reverse string function in Python,return s[::-1],0.98
+Difference between let and const in JavaScript,let is mutable const is immutable,0.92
+Write simple HTTP server in Node.js,createServer handles requests,0.90
+Handle null pointer exception in Java,check null before use,0.93
+SQL top 10 customers by revenue,SELECT customer_id ORDER BY SUM(amount) DESC LIMIT 10,0.96
+Explain recursion, function calls itself with base case,0.91
+Git commit changes,git add . git commit -m message git push,0.94
+React counter component,button increments state count,0.89
+What is REST API,HTTP based API with resources,0.95

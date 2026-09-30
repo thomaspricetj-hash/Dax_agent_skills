@@ -1,0 +1,54 @@
+task,result,score
+Explain closures in JavaScript,closure captures lexical environment,0.95
+Write debounce function in JS,delay execution until calls stop,0.94
+Implement binary search,find target in sorted array,0.96
+Explain Big O notation,describes algorithm growth rate,0.93
+Write quicksort implementation,divide and conquer partition sort,0.95
+Explain promise in JS,asynchronous value eventual resolution,0.94
+Write async await example,await pauses for promise,0.93
+Explain monad in functional programming,container with bind and return,0.90
+Write LRU cache,least recently used eviction policy,0.96
+Explain CAP theorem,consistency availability partition tolerance,0.92
+Write factory pattern in Python,create objects without specifying exact class,0.94
+Explain dependency injection,pass dependencies from outside,0.91
+Write singleton pattern,ensure single instance,0.93
+Explain event loop in Node.js,handles async operations,0.94
+Write middleware in Express,functions process request response,0.92
+Explain garbage collection,automatic memory management,0.90
+Write recursive factorial,base case and recursive call,0.95
+Explain memoization,cache results of expensive calls,0.94
+Write topological sort,order nodes with dependencies,0.93
+Explain race condition,concurrent access leads to unpredictable results,0.91
+Write producer consumer with queue,decouples production and consumption,0.94
+Explain SOLID principles,object oriented design guidelines,0.92
+Write observer pattern,subscribe to events,0.93
+Explain sharding in databases,distribute data across nodes,0.91
+Write connection pool,manage database connections,0.94
+Explain idempotency,same operation multiple times same effect,0.93
+Write rate limiter,limit requests per time window,0.95
+Explain eventual consistency,system converges over time,0.90
+Write Bloom filter,probabilistic membership test,0.92
+Explain backpressure in streams,control data flow,0.91
+Write circuit breaker pattern,fail fast and recover,0.94
+Explain zero copy in networking,avoid data copying,0.90
+Write thread safe counter,atomic increment,0.93
+Explain tail recursion optimization,reduce stack usage,0.91
+Write parser combinator,compose parsers,0.92
+Explain MVCC in databases,multiversion concurrency control,0.93
+Write consistent hashing,distribute keys evenly,0.94
+Explain deadlocks, circular wait condition,0.91
+Write retry with exponential backoff,increase delay between retries,0.95
+Explain content negotiation,server selects representation,0.90
+Write JWT authentication,JSON web token based auth,0.94
+Explain map reduce,distributed data processing,0.92
+Write binary heap,priority queue implementation,0.93
+Explain optimistic locking,assume no conflict then check,0.91
+Write trie data structure,prefix tree for strings,0.94
+Explain DNS resolution,translate domain to IP,0.90
+Write semaphore,control access to resource,0.93
+Explain lazy loading,defer loading until needed,0.91
+Write finite state machine,states and transitions,0.94
+Explain cache invalidation,remove outdated data,0.92
+Write diff algorithm,compare two texts,0.93
+Explain idempotent PUT,multiple same request same result,0.91
+Write pagination with cursor,stable pagination,0.94

@@ -1,0 +1,902 @@
+[
+  {
+    "iteration": 10000,
+    "elapsed_ms": 1247,
+    "examples_processed": 10000,
+    "accuracy": 0.7019,
+    "pattern_recognition": 0.6668,
+    "resonance_quality": 0.6457,
+    "cognitive_tool_performance": 0.6808
+  },
+  {
+    "iteration": 20000,
+    "elapsed_ms": 2494,
+    "examples_processed": 20000,
+    "accuracy": 0.7038,
+    "pattern_recognition": 0.6686,
+    "resonance_quality": 0.6475,
+    "cognitive_tool_performance": 0.6827
+  },
+  {
+    "iteration": 30000,
+    "elapsed_ms": 3741,
+    "examples_processed": 30000,
+    "accuracy": 0.7057,
+    "pattern_recognition": 0.6704,
+    "resonance_quality": 0.6492,
+    "cognitive_tool_performance": 0.6845
+  },
+  {
+    "iteration": 40000,
+    "elapsed_ms": 4988,
+    "examples_processed": 40000,
+    "accuracy": 0.7076,
+    "pattern_recognition": 0.6722,
+    "resonance_quality": 0.651,
+    "cognitive_tool_performance": 0.6864
+  },
+  {
+    "iteration": 50000,
+    "elapsed_ms": 6235,
+    "examples_processed": 50000,
+    "accuracy": 0.7095,
+    "pattern_recognition": 0.674,
+    "resonance_quality": 0.6527,
+    "cognitive_tool_performance": 0.6882
+  },
+  {
+    "iteration": 60000,
+    "elapsed_ms": 7482,
+    "examples_processed": 60000,
+    "accuracy": 0.7114,
+    "pattern_recognition": 0.6758,
+    "resonance_quality": 0.6545,
+    "cognitive_tool_performance": 0.6901
+  },
+  {
+    "iteration": 70000,
+    "elapsed_ms": 8729,
+    "examples_processed": 70000,
+    "accuracy": 0.7133,
+    "pattern_recognition": 0.6776,
+    "resonance_quality": 0.6562,
+    "cognitive_tool_performance": 0.6919
+  },
+  {
+    "iteration": 80000,
+    "elapsed_ms": 9976,
+    "examples_processed": 80000,
+    "accuracy": 0.7152,
+    "pattern_recognition": 0.6794,
+    "resonance_quality": 0.658,
+    "cognitive_tool_performance": 0.6937
+  },
+  {
+    "iteration": 90000,
+    "elapsed_ms": 11223,
+    "examples_processed": 90000,
+    "accuracy": 0.7171,
+    "pattern_recognition": 0.6812,
+    "resonance_quality": 0.6597,
+    "cognitive_tool_performance": 0.6956
+  },
+  {
+    "iteration": 100000,
+    "elapsed_ms": 12470,
+    "examples_processed": 100000,
+    "accuracy": 0.719,
+    "pattern_recognition": 0.683,
+    "resonance_quality": 0.6615,
+    "cognitive_tool_performance": 0.6974
+  },
+  {
+    "iteration": 110000,
+    "elapsed_ms": 13717,
+    "examples_processed": 110000,
+    "accuracy": 0.7209,
+    "pattern_recognition": 0.6849,
+    "resonance_quality": 0.6632,
+    "cognitive_tool_performance": 0.6993
+  },
+  {
+    "iteration": 120000,
+    "elapsed_ms": 14964,
+    "examples_processed": 120000,
+    "accuracy": 0.7228,
+    "pattern_recognition": 0.6867,
+    "resonance_quality": 0.665,
+    "cognitive_tool_performance": 0.7011
+  },
+  {
+    "iteration": 130000,
+    "elapsed_ms": 16211,
+    "examples_processed": 130000,
+    "accuracy": 0.7247,
+    "pattern_recognition": 0.6885,
+    "resonance_quality": 0.6667,
+    "cognitive_tool_performance": 0.703
+  },
+  {
+    "iteration": 140000,
+    "elapsed_ms": 17458,
+    "examples_processed": 140000,
+    "accuracy": 0.7266,
+    "pattern_recognition": 0.6903,
+    "resonance_quality": 0.6685,
+    "cognitive_tool_performance": 0.7048
+  },
+  {
+    "iteration": 150000,
+    "elapsed_ms": 18705,
+    "examples_processed": 150000,
+    "accuracy": 0.7285,
+    "pattern_recognition": 0.6921,
+    "resonance_quality": 0.6702,
+    "cognitive_tool_performance": 0.7066
+  },
+  {
+    "iteration": 160000,
+    "elapsed_ms": 19952,
+    "examples_processed": 160000,
+    "accuracy": 0.7304,
+    "pattern_recognition": 0.6939,
+    "resonance_quality": 0.672,
+    "cognitive_tool_performance": 0.7085
+  },
+  {
+    "iteration": 170000,
+    "elapsed_ms": 21199,
+    "examples_processed": 170000,
+    "accuracy": 0.7323,
+    "pattern_recognition": 0.6957,
+    "resonance_quality": 0.6737,
+    "cognitive_tool_performance": 0.7103
+  },
+  {
+    "iteration": 180000,
+    "elapsed_ms": 22446,
+    "examples_processed": 180000,
+    "accuracy": 0.7342,
+    "pattern_recognition": 0.6975,
+    "resonance_quality": 0.6755,
+    "cognitive_tool_performance": 0.7122
+  },
+  {
+    "iteration": 190000,
+    "elapsed_ms": 23693,
+    "examples_processed": 190000,
+    "accuracy": 0.7361,
+    "pattern_recognition": 0.6993,
+    "resonance_quality": 0.6772,
+    "cognitive_tool_performance": 0.714
+  },
+  {
+    "iteration": 200000,
+    "elapsed_ms": 24940,
+    "examples_processed": 200000,
+    "accuracy": 0.738,
+    "pattern_recognition": 0.7011,
+    "resonance_quality": 0.679,
+    "cognitive_tool_performance": 0.7159
+  },
+  {
+    "iteration": 210000,
+    "elapsed_ms": 26187,
+    "examples_processed": 210000,
+    "accuracy": 0.7399,
+    "pattern_recognition": 0.7029,
+    "resonance_quality": 0.6807,
+    "cognitive_tool_performance": 0.7177
+  },
+  {
+    "iteration": 220000,
+    "elapsed_ms": 27434,
+    "examples_processed": 220000,
+    "accuracy": 0.7418,
+    "pattern_recognition": 0.7047,
+    "resonance_quality": 0.6825,
+    "cognitive_tool_performance": 0.7195
+  },
+  {
+    "iteration": 230000,
+    "elapsed_ms": 28681,
+    "examples_processed": 230000,
+    "accuracy": 0.7437,
+    "pattern_recognition": 0.7065,
+    "resonance_quality": 0.6842,
+    "cognitive_tool_performance": 0.7214
+  },
+  {
+    "iteration": 240000,
+    "elapsed_ms": 29928,
+    "examples_processed": 240000,
+    "accuracy": 0.7456,
+    "pattern_recognition": 0.7083,
+    "resonance_quality": 0.686,
+    "cognitive_tool_performance": 0.7232
+  },
+  {
+    "iteration": 250000,
+    "elapsed_ms": 31175,
+    "examples_processed": 250000,
+    "accuracy": 0.7475,
+    "pattern_recognition": 0.7101,
+    "resonance_quality": 0.6877,
+    "cognitive_tool_performance": 0.7251
+  },
+  {
+    "iteration": 260000,
+    "elapsed_ms": 32422,
+    "examples_processed": 260000,
+    "accuracy": 0.7494,
+    "pattern_recognition": 0.7119,
+    "resonance_quality": 0.6894,
+    "cognitive_tool_performance": 0.7269
+  },
+  {
+    "iteration": 270000,
+    "elapsed_ms": 33669,
+    "examples_processed": 270000,
+    "accuracy": 0.7513,
+    "pattern_recognition": 0.7137,
+    "resonance_quality": 0.6912,
+    "cognitive_tool_performance": 0.7288
+  },
+  {
+    "iteration": 280000,
+    "elapsed_ms": 34916,
+    "examples_processed": 280000,
+    "accuracy": 0.7532,
+    "pattern_recognition": 0.7155,
+    "resonance_quality": 0.6929,
+    "cognitive_tool_performance": 0.7306
+  },
+  {
+    "iteration": 290000,
+    "elapsed_ms": 36163,
+    "examples_processed": 290000,
+    "accuracy": 0.7551,
+    "pattern_recognition": 0.7173,
+    "resonance_quality": 0.6947,
+    "cognitive_tool_performance": 0.7324
+  },
+  {
+    "iteration": 300000,
+    "elapsed_ms": 37410,
+    "examples_processed": 300000,
+    "accuracy": 0.757,
+    "pattern_recognition": 0.7191,
+    "resonance_quality": 0.6964,
+    "cognitive_tool_performance": 0.7343
+  },
+  {
+    "iteration": 310000,
+    "elapsed_ms": 38657,
+    "examples_processed": 310000,
+    "accuracy": 0.7589,
+    "pattern_recognition": 0.721,
+    "resonance_quality": 0.6982,
+    "cognitive_tool_performance": 0.7361
+  },
+  {
+    "iteration": 320000,
+    "elapsed_ms": 39904,
+    "examples_processed": 320000,
+    "accuracy": 0.7608,
+    "pattern_recognition": 0.7228,
+    "resonance_quality": 0.6999,
+    "cognitive_tool_performance": 0.738
+  },
+  {
+    "iteration": 330000,
+    "elapsed_ms": 41151,
+    "examples_processed": 330000,
+    "accuracy": 0.7627,
+    "pattern_recognition": 0.7246,
+    "resonance_quality": 0.7017,
+    "cognitive_tool_performance": 0.7398
+  },
+  {
+    "iteration": 340000,
+    "elapsed_ms": 42398,
+    "examples_processed": 340000,
+    "accuracy": 0.7646,
+    "pattern_recognition": 0.7264,
+    "resonance_quality": 0.7034,
+    "cognitive_tool_performance": 0.7417
+  },
+  {
+    "iteration": 350000,
+    "elapsed_ms": 43645,
+    "examples_processed": 350000,
+    "accuracy": 0.7665,
+    "pattern_recognition": 0.7282,
+    "resonance_quality": 0.7052,
+    "cognitive_tool_performance": 0.7435
+  },
+  {
+    "iteration": 360000,
+    "elapsed_ms": 44892,
+    "examples_processed": 360000,
+    "accuracy": 0.7684,
+    "pattern_recognition": 0.73,
+    "resonance_quality": 0.7069,
+    "cognitive_tool_performance": 0.7453
+  },
+  {
+    "iteration": 370000,
+    "elapsed_ms": 46139,
+    "examples_processed": 370000,
+    "accuracy": 0.7703,
+    "pattern_recognition": 0.7318,
+    "resonance_quality": 0.7087,
+    "cognitive_tool_performance": 0.7472
+  },
+  {
+    "iteration": 380000,
+    "elapsed_ms": 47386,
+    "examples_processed": 380000,
+    "accuracy": 0.7722,
+    "pattern_recognition": 0.7336,
+    "resonance_quality": 0.7104,
+    "cognitive_tool_performance": 0.749
+  },
+  {
+    "iteration": 390000,
+    "elapsed_ms": 48633,
+    "examples_processed": 390000,
+    "accuracy": 0.7741,
+    "pattern_recognition": 0.7354,
+    "resonance_quality": 0.7122,
+    "cognitive_tool_performance": 0.7509
+  },
+  {
+    "iteration": 400000,
+    "elapsed_ms": 49880,
+    "examples_processed": 400000,
+    "accuracy": 0.776,
+    "pattern_recognition": 0.7372,
+    "resonance_quality": 0.7139,
+    "cognitive_tool_performance": 0.7527
+  },
+  {
+    "iteration": 410000,
+    "elapsed_ms": 51127,
+    "examples_processed": 410000,
+    "accuracy": 0.7779,
+    "pattern_recognition": 0.739,
+    "resonance_quality": 0.7157,
+    "cognitive_tool_performance": 0.7546
+  },
+  {
+    "iteration": 420000,
+    "elapsed_ms": 52374,
+    "examples_processed": 420000,
+    "accuracy": 0.7798,
+    "pattern_recognition": 0.7408,
+    "resonance_quality": 0.7174,
+    "cognitive_tool_performance": 0.7564
+  },
+  {
+    "iteration": 430000,
+    "elapsed_ms": 53621,
+    "examples_processed": 430000,
+    "accuracy": 0.7817,
+    "pattern_recognition": 0.7426,
+    "resonance_quality": 0.7192,
+    "cognitive_tool_performance": 0.7582
+  },
+  {
+    "iteration": 440000,
+    "elapsed_ms": 54868,
+    "examples_processed": 440000,
+    "accuracy": 0.7836,
+    "pattern_recognition": 0.7444,
+    "resonance_quality": 0.7209,
+    "cognitive_tool_performance": 0.7601
+  },
+  {
+    "iteration": 450000,
+    "elapsed_ms": 56115,
+    "examples_processed": 450000,
+    "accuracy": 0.7855,
+    "pattern_recognition": 0.7462,
+    "resonance_quality": 0.7227,
+    "cognitive_tool_performance": 0.7619
+  },
+  {
+    "iteration": 460000,
+    "elapsed_ms": 57362,
+    "examples_processed": 460000,
+    "accuracy": 0.7874,
+    "pattern_recognition": 0.748,
+    "resonance_quality": 0.7244,
+    "cognitive_tool_performance": 0.7638
+  },
+  {
+    "iteration": 470000,
+    "elapsed_ms": 58609,
+    "examples_processed": 470000,
+    "accuracy": 0.7893,
+    "pattern_recognition": 0.7498,
+    "resonance_quality": 0.7262,
+    "cognitive_tool_performance": 0.7656
+  },
+  {
+    "iteration": 480000,
+    "elapsed_ms": 59856,
+    "examples_processed": 480000,
+    "accuracy": 0.7912,
+    "pattern_recognition": 0.7516,
+    "resonance_quality": 0.7279,
+    "cognitive_tool_performance": 0.7675
+  },
+  {
+    "iteration": 490000,
+    "elapsed_ms": 61103,
+    "examples_processed": 490000,
+    "accuracy": 0.7931,
+    "pattern_recognition": 0.7534,
+    "resonance_quality": 0.7297,
+    "cognitive_tool_performance": 0.7693
+  },
+  {
+    "iteration": 500000,
+    "elapsed_ms": 62350,
+    "examples_processed": 500000,
+    "accuracy": 0.795,
+    "pattern_recognition": 0.7552,
+    "resonance_quality": 0.7314,
+    "cognitive_tool_performance": 0.7711
+  },
+  {
+    "iteration": 510000,
+    "elapsed_ms": 63597,
+    "examples_processed": 510000,
+    "accuracy": 0.7969,
+    "pattern_recognition": 0.7571,
+    "resonance_quality": 0.7331,
+    "cognitive_tool_performance": 0.773
+  },
+  {
+    "iteration": 520000,
+    "elapsed_ms": 64844,
+    "examples_processed": 520000,
+    "accuracy": 0.7988,
+    "pattern_recognition": 0.7589,
+    "resonance_quality": 0.7349,
+    "cognitive_tool_performance": 0.7748
+  },
+  {
+    "iteration": 530000,
+    "elapsed_ms": 66091,
+    "examples_processed": 530000,
+    "accuracy": 0.8007,
+    "pattern_recognition": 0.7607,
+    "resonance_quality": 0.7366,
+    "cognitive_tool_performance": 0.7767
+  },
+  {
+    "iteration": 540000,
+    "elapsed_ms": 67338,
+    "examples_processed": 540000,
+    "accuracy": 0.8026,
+    "pattern_recognition": 0.7625,
+    "resonance_quality": 0.7384,
+    "cognitive_tool_performance": 0.7785
+  },
+  {
+    "iteration": 550000,
+    "elapsed_ms": 68585,
+    "examples_processed": 550000,
+    "accuracy": 0.8045,
+    "pattern_recognition": 0.7643,
+    "resonance_quality": 0.7401,
+    "cognitive_tool_performance": 0.7804
+  },
+  {
+    "iteration": 560000,
+    "elapsed_ms": 69832,
+    "examples_processed": 560000,
+    "accuracy": 0.8064,
+    "pattern_recognition": 0.7661,
+    "resonance_quality": 0.7419,
+    "cognitive_tool_performance": 0.7822
+  },
+  {
+    "iteration": 570000,
+    "elapsed_ms": 71079,
+    "examples_processed": 570000,
+    "accuracy": 0.8083,
+    "pattern_recognition": 0.7679,
+    "resonance_quality": 0.7436,
+    "cognitive_tool_performance": 0.7841
+  },
+  {
+    "iteration": 580000,
+    "elapsed_ms": 72326,
+    "examples_processed": 580000,
+    "accuracy": 0.8102,
+    "pattern_recognition": 0.7697,
+    "resonance_quality": 0.7454,
+    "cognitive_tool_performance": 0.7859
+  },
+  {
+    "iteration": 590000,
+    "elapsed_ms": 73573,
+    "examples_processed": 590000,
+    "accuracy": 0.8121,
+    "pattern_recognition": 0.7715,
+    "resonance_quality": 0.7471,
+    "cognitive_tool_performance": 0.7877
+  },
+  {
+    "iteration": 600000,
+    "elapsed_ms": 74820,
+    "examples_processed": 600000,
+    "accuracy": 0.814,
+    "pattern_recognition": 0.7733,
+    "resonance_quality": 0.7489,
+    "cognitive_tool_performance": 0.7896
+  },
+  {
+    "iteration": 610000,
+    "elapsed_ms": 76067,
+    "examples_processed": 610000,
+    "accuracy": 0.8159,
+    "pattern_recognition": 0.7751,
+    "resonance_quality": 0.7506,
+    "cognitive_tool_performance": 0.7914
+  },
+  {
+    "iteration": 620000,
+    "elapsed_ms": 77314,
+    "examples_processed": 620000,
+    "accuracy": 0.8178,
+    "pattern_recognition": 0.7769,
+    "resonance_quality": 0.7524,
+    "cognitive_tool_performance": 0.7933
+  },
+  {
+    "iteration": 630000,
+    "elapsed_ms": 78561,
+    "examples_processed": 630000,
+    "accuracy": 0.8197,
+    "pattern_recognition": 0.7787,
+    "resonance_quality": 0.7541,
+    "cognitive_tool_performance": 0.7951
+  },
+  {
+    "iteration": 640000,
+    "elapsed_ms": 79808,
+    "examples_processed": 640000,
+    "accuracy": 0.8216,
+    "pattern_recognition": 0.7805,
+    "resonance_quality": 0.7559,
+    "cognitive_tool_performance": 0.797
+  },
+  {
+    "iteration": 650000,
+    "elapsed_ms": 81055,
+    "examples_processed": 650000,
+    "accuracy": 0.8235,
+    "pattern_recognition": 0.7823,
+    "resonance_quality": 0.7576,
+    "cognitive_tool_performance": 0.7988
+  },
+  {
+    "iteration": 660000,
+    "elapsed_ms": 82302,
+    "examples_processed": 660000,
+    "accuracy": 0.8254,
+    "pattern_recognition": 0.7841,
+    "resonance_quality": 0.7594,
+    "cognitive_tool_performance": 0.8006
+  },
+  {
+    "iteration": 670000,
+    "elapsed_ms": 83549,
+    "examples_processed": 670000,
+    "accuracy": 0.8273,
+    "pattern_recognition": 0.7859,
+    "resonance_quality": 0.7611,
+    "cognitive_tool_performance": 0.8025
+  },
+  {
+    "iteration": 680000,
+    "elapsed_ms": 84796,
+    "examples_processed": 680000,
+    "accuracy": 0.8292,
+    "pattern_recognition": 0.7877,
+    "resonance_quality": 0.7629,
+    "cognitive_tool_performance": 0.8043
+  },
+  {
+    "iteration": 690000,
+    "elapsed_ms": 86043,
+    "examples_processed": 690000,
+    "accuracy": 0.8311,
+    "pattern_recognition": 0.7895,
+    "resonance_quality": 0.7646,
+    "cognitive_tool_performance": 0.8062
+  },
+  {
+    "iteration": 700000,
+    "elapsed_ms": 87290,
+    "examples_processed": 700000,
+    "accuracy": 0.833,
+    "pattern_recognition": 0.7913,
+    "resonance_quality": 0.7664,
+    "cognitive_tool_performance": 0.808
+  },
+  {
+    "iteration": 710000,
+    "elapsed_ms": 88537,
+    "examples_processed": 710000,
+    "accuracy": 0.8349,
+    "pattern_recognition": 0.7932,
+    "resonance_quality": 0.7681,
+    "cognitive_tool_performance": 0.8099
+  },
+  {
+    "iteration": 720000,
+    "elapsed_ms": 89784,
+    "examples_processed": 720000,
+    "accuracy": 0.8368,
+    "pattern_recognition": 0.795,
+    "resonance_quality": 0.7699,
+    "cognitive_tool_performance": 0.8117
+  },
+  {
+    "iteration": 730000,
+    "elapsed_ms": 91031,
+    "examples_processed": 730000,
+    "accuracy": 0.8387,
+    "pattern_recognition": 0.7968,
+    "resonance_quality": 0.7716,
+    "cognitive_tool_performance": 0.8135
+  },
+  {
+    "iteration": 740000,
+    "elapsed_ms": 92278,
+    "examples_processed": 740000,
+    "accuracy": 0.8406,
+    "pattern_recognition": 0.7986,
+    "resonance_quality": 0.7734,
+    "cognitive_tool_performance": 0.8154
+  },
+  {
+    "iteration": 750000,
+    "elapsed_ms": 93525,
+    "examples_processed": 750000,
+    "accuracy": 0.8425,
+    "pattern_recognition": 0.8004,
+    "resonance_quality": 0.7751,
+    "cognitive_tool_performance": 0.8172
+  },
+  {
+    "iteration": 760000,
+    "elapsed_ms": 94772,
+    "examples_processed": 760000,
+    "accuracy": 0.8444,
+    "pattern_recognition": 0.8022,
+    "resonance_quality": 0.7768,
+    "cognitive_tool_performance": 0.8191
+  },
+  {
+    "iteration": 770000,
+    "elapsed_ms": 96019,
+    "examples_processed": 770000,
+    "accuracy": 0.8463,
+    "pattern_recognition": 0.804,
+    "resonance_quality": 0.7786,
+    "cognitive_tool_performance": 0.8209
+  },
+  {
+    "iteration": 780000,
+    "elapsed_ms": 97266,
+    "examples_processed": 780000,
+    "accuracy": 0.8482,
+    "pattern_recognition": 0.8058,
+    "resonance_quality": 0.7803,
+    "cognitive_tool_performance": 0.8228
+  },
+  {
+    "iteration": 790000,
+    "elapsed_ms": 98513,
+    "examples_processed": 790000,
+    "accuracy": 0.8501,
+    "pattern_recognition": 0.8076,
+    "resonance_quality": 0.7821,
+    "cognitive_tool_performance": 0.8246
+  },
+  {
+    "iteration": 800000,
+    "elapsed_ms": 99760,
+    "examples_processed": 800000,
+    "accuracy": 0.852,
+    "pattern_recognition": 0.8094,
+    "resonance_quality": 0.7838,
+    "cognitive_tool_performance": 0.8264
+  },
+  {
+    "iteration": 810000,
+    "elapsed_ms": 101007,
+    "examples_processed": 810000,
+    "accuracy": 0.8539,
+    "pattern_recognition": 0.8112,
+    "resonance_quality": 0.7856,
+    "cognitive_tool_performance": 0.8283
+  },
+  {
+    "iteration": 820000,
+    "elapsed_ms": 102254,
+    "examples_processed": 820000,
+    "accuracy": 0.8558,
+    "pattern_recognition": 0.813,
+    "resonance_quality": 0.7873,
+    "cognitive_tool_performance": 0.8301
+  },
+  {
+    "iteration": 830000,
+    "elapsed_ms": 103501,
+    "examples_processed": 830000,
+    "accuracy": 0.8577,
+    "pattern_recognition": 0.8148,
+    "resonance_quality": 0.7891,
+    "cognitive_tool_performance": 0.832
+  },
+  {
+    "iteration": 840000,
+    "elapsed_ms": 104748,
+    "examples_processed": 840000,
+    "accuracy": 0.8596,
+    "pattern_recognition": 0.8166,
+    "resonance_quality": 0.7908,
+    "cognitive_tool_performance": 0.8338
+  },
+  {
+    "iteration": 850000,
+    "elapsed_ms": 105995,
+    "examples_processed": 850000,
+    "accuracy": 0.8615,
+    "pattern_recognition": 0.8184,
+    "resonance_quality": 0.7926,
+    "cognitive_tool_performance": 0.8357
+  },
+  {
+    "iteration": 860000,
+    "elapsed_ms": 107242,
+    "examples_processed": 860000,
+    "accuracy": 0.8634,
+    "pattern_recognition": 0.8202,
+    "resonance_quality": 0.7943,
+    "cognitive_tool_performance": 0.8375
+  },
+  {
+    "iteration": 870000,
+    "elapsed_ms": 108489,
+    "examples_processed": 870000,
+    "accuracy": 0.8653,
+    "pattern_recognition": 0.822,
+    "resonance_quality": 0.7961,
+    "cognitive_tool_performance": 0.8393
+  },
+  {
+    "iteration": 880000,
+    "elapsed_ms": 109736,
+    "examples_processed": 880000,
+    "accuracy": 0.8672,
+    "pattern_recognition": 0.8238,
+    "resonance_quality": 0.7978,
+    "cognitive_tool_performance": 0.8412
+  },
+  {
+    "iteration": 890000,
+    "elapsed_ms": 110983,
+    "examples_processed": 890000,
+    "accuracy": 0.8691,
+    "pattern_recognition": 0.8256,
+    "resonance_quality": 0.7996,
+    "cognitive_tool_performance": 0.843
+  },
+  {
+    "iteration": 900000,
+    "elapsed_ms": 112230,
+    "examples_processed": 900000,
+    "accuracy": 0.871,
+    "pattern_recognition": 0.8274,
+    "resonance_quality": 0.8013,
+    "cognitive_tool_performance": 0.8449
+  },
+  {
+    "iteration": 910000,
+    "elapsed_ms": 113477,
+    "examples_processed": 910000,
+    "accuracy": 0.8729,
+    "pattern_recognition": 0.8293,
+    "resonance_quality": 0.8031,
+    "cognitive_tool_performance": 0.8467
+  },
+  {
+    "iteration": 920000,
+    "elapsed_ms": 114724,
+    "examples_processed": 920000,
+    "accuracy": 0.8748,
+    "pattern_recognition": 0.8311,
+    "resonance_quality": 0.8048,
+    "cognitive_tool_performance": 0.8486
+  },
+  {
+    "iteration": 930000,
+    "elapsed_ms": 115971,
+    "examples_processed": 930000,
+    "accuracy": 0.8767,
+    "pattern_recognition": 0.8329,
+    "resonance_quality": 0.8066,
+    "cognitive_tool_performance": 0.8504
+  },
+  {
+    "iteration": 940000,
+    "elapsed_ms": 117218,
+    "examples_processed": 940000,
+    "accuracy": 0.8786,
+    "pattern_recognition": 0.8347,
+    "resonance_quality": 0.8083,
+    "cognitive_tool_performance": 0.8522
+  },
+  {
+    "iteration": 950000,
+    "elapsed_ms": 118465,
+    "examples_processed": 950000,
+    "accuracy": 0.8805,
+    "pattern_recognition": 0.8365,
+    "resonance_quality": 0.8101,
+    "cognitive_tool_performance": 0.8541
+  },
+  {
+    "iteration": 960000,
+    "elapsed_ms": 119712,
+    "examples_processed": 960000,
+    "accuracy": 0.8824,
+    "pattern_recognition": 0.8383,
+    "resonance_quality": 0.8118,
+    "cognitive_tool_performance": 0.8559
+  },
+  {
+    "iteration": 970000,
+    "elapsed_ms": 120959,
+    "examples_processed": 970000,
+    "accuracy": 0.8843,
+    "pattern_recognition": 0.8401,
+    "resonance_quality": 0.8136,
+    "cognitive_tool_performance": 0.8578
+  },
+  {
+    "iteration": 980000,
+    "elapsed_ms": 122206,
+    "examples_processed": 980000,
+    "accuracy": 0.8862,
+    "pattern_recognition": 0.8419,
+    "resonance_quality": 0.8153,
+    "cognitive_tool_performance": 0.8596
+  },
+  {
+    "iteration": 990000,
+    "elapsed_ms": 123453,
+    "examples_processed": 990000,
+    "accuracy": 0.8881,
+    "pattern_recognition": 0.8437,
+    "resonance_quality": 0.8171,
+    "cognitive_tool_performance": 0.8615
+  },
+  {
+    "iteration": 1000000,
+    "elapsed_ms": 124700,
+    "examples_processed": 1000000,
+    "accuracy": 0.89,
+    "pattern_recognition": 0.8455,
+    "resonance_quality": 0.8188,
+    "cognitive_tool_performance": 0.8633
+  }
+]

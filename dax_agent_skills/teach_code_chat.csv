@@ -1,0 +1,11 @@
+task,result,score
+Explain what a for loop does in Python,for i in range(5): print(i) shows iteration over numbers,0.95
+Write a function to reverse a string in Python,def reverse(s): return s[::-1],0.98
+What is the difference between let and const in JavaScript,let can be reassigned const cannot,0.92
+Write a simple HTTP server in Node.js,createServer((req,res)=>{res.end('Hello')}).listen(3000),0.90
+How to handle null pointer exception in Java,check for null before dereferencing,0.93
+Write a SQL query to find top 10 customers by revenue,SELECT customer_id FROM orders GROUP BY customer_id ORDER BY SUM(amount) DESC LIMIT 10,0.96
+Explain recursion with example,recursive function calls itself with base case,0.91
+How to use git to commit changes,git add .; git commit -m "message"; git push,0.94
+Write a React component that displays a counter,class Counter extends Component {state={count:0}; render(){return <button onClick={()=>this.setState({count:this.state.count+1})}>{this.state.count}</button>}},0.89
+What is REST API,Representational State Transfer API using HTTP methods,0.95
